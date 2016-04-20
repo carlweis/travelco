@@ -1,0 +1,32 @@
+{
+  "name": "travelco",
+  "version": "0.0.1",
+  "description": "Travel app sample application for nodejs and express.",
+  "main": "travelco.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/carlweis/travelco.git"
+  },
+  "keywords": [
+    "travelco",
+    "nodejs",
+    "expressjs",
+    "express",
+    "mongo",
+    "mongodb",
+    "nosql",
+    "javascript"
+  ],
+  "author": "Carl Weis <carl@carlweis.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlweis/travelco/issues"
+  },
+  "homepage": "https://github.com/carlweis/travelco#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
