@@ -27,6 +27,8 @@
   },
   "homepage": "https://github.com/carlweis/travelco#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "express4-handlebars": "^0.2.0"
   }
 }
